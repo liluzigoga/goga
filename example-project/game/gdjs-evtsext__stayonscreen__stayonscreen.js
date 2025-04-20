@@ -323,10 +323,7 @@ gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginTopCont
 
 let isConditionTrue_0 = false;
 {
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginTopContext.GDObjectObjects1);
-{for(var i = 0, len = gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginTopContext.GDObjectObjects1.length ;i < len;++i) {
-    gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginTopContext.GDObjectObjects1[i].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginTop(eventsFunctionContext.getArgument("Value"));
-}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginTop(eventsFunctionContext.getArgument("Value"))
 }}
 
 }
@@ -510,10 +507,7 @@ gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginBottomC
 
 let isConditionTrue_0 = false;
 {
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginBottomContext.GDObjectObjects1);
-{for(var i = 0, len = gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginBottomContext.GDObjectObjects1.length ;i < len;++i) {
-    gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginBottomContext.GDObjectObjects1[i].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginBottom(eventsFunctionContext.getArgument("Value"));
-}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginBottom(eventsFunctionContext.getArgument("Value"))
 }}
 
 }
@@ -697,10 +691,7 @@ gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginLeftCon
 
 let isConditionTrue_0 = false;
 {
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginLeftContext.GDObjectObjects1);
-{for(var i = 0, len = gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginLeftContext.GDObjectObjects1.length ;i < len;++i) {
-    gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginLeftContext.GDObjectObjects1[i].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginLeft(eventsFunctionContext.getArgument("Value"));
-}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginLeft(eventsFunctionContext.getArgument("Value"))
 }}
 
 }
@@ -884,10 +875,7 @@ gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginRightCo
 
 let isConditionTrue_0 = false;
 {
-gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginRightContext.GDObjectObjects1);
-{for(var i = 0, len = gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginRightContext.GDObjectObjects1.length ;i < len;++i) {
-    gdjs.evtsExt__StayOnScreen__StayOnScreen.StayOnScreen.prototype.SetMarginRightContext.GDObjectObjects1[i].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginRight(eventsFunctionContext.getArgument("Value"));
-}
+{eventsFunctionContext.getObjects("Object")[0].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMarginRight(eventsFunctionContext.getArgument("Value"))
 }}
 
 }
